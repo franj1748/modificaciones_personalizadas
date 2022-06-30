@@ -1,0 +1,40 @@
+/* Estilos del frontend */
+
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.elementor-location-footer{
+    margin-top: auto;
+}
+
+.col-categoria{
+    padding-right: 0;
+}
+
+span[id$="container"]{
+    padding: 10px 0 !important;
+    height: 40px !important;
+}
+
+.select2-selection--single{
+    display: inline-block !important;
+    width: 100% !important;
+    padding-left: 0 !important;
+}
+
+/*#featured_image{
+    height: 10px;
+}*/
+
+.post-image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.um-activity-featured-img{
+    width: 70% !important;
+}
